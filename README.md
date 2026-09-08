@@ -1,2 +1,2 @@
-# DAFFI-APIP
+# python
 First project
